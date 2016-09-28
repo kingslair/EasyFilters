@@ -41,20 +41,20 @@
     filter: saturate(4);
 }
 .contrast {
-    -webkit-filter: contrast(3);
-    filter: contrast(3);
+    -webkit-filter: contrast(4);
+    filter: contrast(4);
 }
 .brightness {
-    -webkit-filter: brightness(.5);
-    filter: brightness(.5);
+    -webkit-filter: brightness(.6);
+    filter: brightness(.6);
 }
 .opacity {
     -webkit-filter: opacity(.5);
     filter: opacity(.5);
 }
 .blur {
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
+    -webkit-filter: blur(4px);
+    filter: blur(4px);
 }
 
 .text {
