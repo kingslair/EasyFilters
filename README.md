@@ -15,3 +15,7 @@ The color filters used here are:
 9. Blur 
 
 Code contains the basic HTML page and the CSS file contains all the filter schemes and its usage.
+
+AUTHOR
+Abhijeet Das
+28/09/2016
