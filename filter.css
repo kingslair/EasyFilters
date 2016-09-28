@@ -1,0 +1,73 @@
+.rows {
+	width:100%;
+	float:left;
+}
+
+.row_first {
+	width:49%;
+	float:left;
+	text-align:center;
+	border:#999999 solid 1px;
+	background-color:Transparent;
+	padding:2px;
+}
+
+.row_second {
+	width:49%;
+	float:left;
+	text-align:center;
+	border:#999999 solid 1px;
+	background-color:Transparent;
+	padding:2px;
+}
+.sepia {
+    -webkit-filter: sepia(2); 
+    filter: sepia(2);
+}
+.grayscale {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+.hue-rotate {
+    -webkit-filter: hue-rotate(90deg);
+    filter: hue-rotate(90deg);
+}
+.invert {
+    -webkit-filter: invert(.8);
+    filter: invert(.8);
+}
+.saturate {
+    -webkit-filter: saturate(4);
+    filter: saturate(4);
+}
+.contrast {
+    -webkit-filter: contrast(3);
+    filter: contrast(3);
+}
+.brightness {
+    -webkit-filter: brightness(.5);
+    filter: brightness(.5);
+}
+.opacity {
+    -webkit-filter: opacity(.5);
+    filter: opacity(.5);
+}
+.blur {
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+}
+
+.text {
+	style:color:#333333; 
+	font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+	font-family:'Courier New', Courier, monospace; 
+	font-size:34px; color:#666666;
+}
+
+img {
+	width:50%; 
+	height:50%;
+}
